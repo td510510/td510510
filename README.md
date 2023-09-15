@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dang Duc Thinh</h1>
-<h3 align="center">A passionate Frontend Developer from Vietnam</h3>
+<h3 align="center">A passionate Front-end Developer from Vietnam</h3>
 <p align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47krbs7656vthm9cp1mfd0s2g0wqy5lyi2xn40os1v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
 </p>
