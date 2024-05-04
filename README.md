@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47krbs7656vthm9cp1mfd0s2g0wqy5lyi2xn40os1v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="">
 </p>
 
-<p align="center">👋 This is my portfolio: <a href="https://thinh-dang-porfolio.netlify.app" target="_blank">https://thinh-dang-porfolio.netlify.app</a></p>
+<p align="center">👋 This is my portfolio: <a target="_blank" href="https://thinh-dang-porfolio.netlify.app">https://thinh-dang-porfolio.netlify.app</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
